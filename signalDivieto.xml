@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inizio>
+    <option value="85">divieto di fermata</option>
+    <option value="59">divieto di segnalazione acustica</option>
+    <option value="56">divieto di sorpasso</option>
+    <option value="82">fine divieto di sorpasso</option>
+    <option value="54">divieto di transito</option>
+    <option value="84">divieto di sosta</option>
+    <option value="55">senso vietato</option>
+    <option value="62">transito vietato ai pedoni</option>
+    <option value="66">transito vietato a tutti gli autoveicoli</option>
+    <option value="58">limite massimo di velocità</option>
+    <option value="63">transito vietato ai velocipedi</option>
+    <option value="64">transito vietato ai motocicli</option>
+    <option value="100">passo carrabile</option>
+    <option value="92">regolazione flessibile di sosta</option>
+    <option value="86">parcheggio</option>
+</inizio>

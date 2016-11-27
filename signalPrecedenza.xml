@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inizio>
+    <option value="40">dare la precedenza</option>
+    <option value="41">obbligo di fermarsi all'incrocio</option>
+    <option value="50">confluenza da destra</option>
+    <option value="44">incrocio con precedenza a destra</option>
+    <option value="53">diritto di precedenza nei sensi unici alternati</option>
+    <option value="52">diritto di precedenza</option>
+    <option value="46">fine del diritto di precedenza</option>
+    <option value="45">dare precedenza nei sensi unici alternati</option>
+    <option value="47">intersezione con diritto di precedenza</option>
+</inizio>

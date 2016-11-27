@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inizio>
+    <option value="153">senso unico frontale</option>
+    <option value="228">strada riservata ai veicoli a motore</option>
+    <option value="229">fine strada riservata ai veicoli a motere</option>
+    <option value="300">senso unico</option>
+    <option value="216">attraversamento pedonale</option>
+    <option value="236">attraversamento ciclabile</option>
+    <option value="275">lavori</option>
+    <option value="279">passaggio obbligatorio con pannello</option>
+    <option value="132">incidente</option>
+    <option value="276">barriera</option>
+    <option value="293">delimitatore curva stretta</option>
+    <option value="294">delineatore incrocio a T</option>
+    <option value="121">distanze</option>
+    <option value="123">orari di validità</option>
+    <option value="124">orari festivi</option>
+    <option value="125">orari lavorativi</option>
+    <option value="128">inizio</option>
+    <option value="129">continuazione</option>
+    <option value="130">fine</option>
+</inizio>

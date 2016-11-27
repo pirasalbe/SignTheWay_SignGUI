@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inizio>
+    <option value="154">lanterna semaforica</option>
+    <option value="155">lanterna semaforica veicolare di corsia</option>
+    <option value="162">luci rosse lampeggianti</option>
+    <option value="160">lanterne semaforiche gialle lampeggianti</option>
+    <option value="400">attraversamento ciclabile</option>
+    <option value="401">attraversamento pedonale</option>
+    <option value="402">carreggiata a due corsie</option>
+    <option value="403">carreggiata a quattro corsie</option>
+    <option value="404">doppia striscia</option>
+    <option value="405">strada con sorpasso: striscia discontinua</option>
+    <option value="406">strada con divieto di sorpasso</option>
+    <option value="407">strada con due corsie per ogni senso di marcia</option>
+    <option value="408">incrocio con corsie di canalizzazione</option>
+    <option value="409">vicinanza di un passaggio a livello</option>
+    <option value="410">segmenti giallo nero al bordo del marciapiede</option>
+    <option value="411">isola pedonale</option>
+</inizio>

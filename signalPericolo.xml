@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inizio>
+    <option value="15">attraversamento pedonale</option>
+    <option value="33">caduta massi</option>
+    <option value="24">strada sdrucciolevole</option>
+    <option value="23">banchina pericolosa</option>
+    <option value="7">doppia curva pericolosa</option>
+    <option value="5">curva pericolosa a sinistra</option>
+    <option value="28">doppio senso di circolazione</option>
+    <option value="29">rotatoria</option>
+    <option value="25">bambini</option>
+    <option value="1">strada deformata</option>
+    <option value="2">dosso</option>
+    <option value="3">cunetta</option>
+    <option value="47">intersezione con diritto di precedenza</option>
+    <option value="31">materiale instabile sulla strada</option>
+    <option value="17">discesa pericolosa</option>
+    <option value="18">salita pericolosa</option>
+    <option value="8">passaggio a livello custodito</option>
+    <option value="9">passaggio a livello incustodito</option>
+    <option value="10">croce di s.andrea</option>
+    <option value="11">doppia croce di s.andrea</option>
+    <option value="19">restringimento della strada</option>
+    <option value="21">strettoia asimetrica a destra</option>
+    <option value="34">semaforo</option>
+</inizio>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inizio>
+    <option value="99">direzione consentita</option>
+    <option value="93">direzione obbligatoria</option>
+    <option value="94">direzione obbligatoria sx</option>
+    <option value="101">passaggio obbligatorio a sx</option>
+    <option value="107">catene obbligatorie</option>
+    <option value="119">alt polizia</option>
+    <option value="103">passaggi consentiti</option>
+    <option value="104">rotatoria</option>
+    <option value="109">fine percorso pedonale</option>
+    <option value="105">limite minimo di velocità</option>
+    <option value="106">fine limite minimo di velocità</option>
+    <option value="110">pista ciclabile</option>
+    <option value="112">pista ciclabile affiancata al marciapiede</option>
+    <option value="114">fine pista ciclabile affiancata al marciapiede</option>
+    <option value="113">percorso pedonale e ciclabile</option>
+    <option value="115">fine percorso pedonale e ciclabile</option>
+</inizio>
